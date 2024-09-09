@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /*
+
+Allow: /api/sitemap
+Disallow: /api/*
+Disallow: /cms/*
+
+# Host
+Host: https://fresco-sgw.vercel.app
+
+# Sitemaps
+Sitemap: https://fresco-sgw.vercel.app/sitemap.xml
